@@ -43,3 +43,6 @@ from datetime import datetime, timedelta
 Este projeto está sob a licença MIT.
 
 Certifique-se de personalizar as seções com informações relevantes para o seu projeto. Se houver mais detalhes que deseja adicionar, sinta-se à vontade para expandir e melhorar o README conforme necessário.
+
+## Autor: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/levilucena/)](https://www.linkedin.com/in/levilucena/)
+
