@@ -32,6 +32,13 @@ import numpy as np
 from datetime import datetime, timedelta
 ```
 
+# Galeria
+
+![1](https://github.com/LeviLucena/vendas/assets/34045910/1b353a5a-387d-4c83-b197-2204b2535dba)
+![2](https://github.com/LeviLucena/vendas/assets/34045910/658b01ab-bd34-48e1-99fb-3389fe25a25c)
+![3](https://github.com/LeviLucena/vendas/assets/34045910/33565ece-47d8-4516-b8e8-92577f7cb6a9)
+![4](https://github.com/LeviLucena/vendas/assets/34045910/4dfdc884-7d26-4dff-952a-c5ef5d8e2623)
+
 # Licença
 Este projeto está sob a licença MIT.
 
