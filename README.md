@@ -2,6 +2,8 @@
 
 Bem-vindo ao projeto de Análise de Desempenho de Vendas! Este é um aplicativo interativo desenvolvido em Python usando Streamlit, Pandas e Plotly Express para oferecer insights visuais sobre dados fictícios de vendas.
 
+![1705714936450](https://github.com/LeviLucena/vendas/assets/34045910/56a4a863-78d6-498e-b205-6d259f609bd6)
+
 ## Descrição
 
 O aplicativo fornece uma análise abrangente do desempenho de vendas, incluindo gráficos interativos, estatísticas mensais e anuais, distribuição de produtos e muito mais. Os dados fictícios são gerados dinamicamente para proporcionar uma experiência envolvente.
