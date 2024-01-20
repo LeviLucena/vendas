@@ -43,7 +43,8 @@ month = st.sidebar.selectbox("Mês", df["Month"].unique())
 
 df_filtered = df[df["Month"] == month]
 
-col1, col2, col3 = st.columns(3)
+# Esta parte será usada para os gráficos
+col1, col2, col3 = st.columns(3)  # Isto significa 3 colunas por linha
 col4, col5, col6 = st.columns(3)
 col7, col8, col9 = st.columns(3)
 col10, col11, col12 = st.columns(3)
